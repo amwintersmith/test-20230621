@@ -1,0 +1,25 @@
+.alert-bg-success{
+    background-color: rgb(69, 198, 90);
+}
+
+.btn-close{
+    cursor: pointer;
+    padding-top: 2px;
+    cursor: pointer;
+    padding-left: 6px;
+    padding-right: 4px;
+    border: 0px #8feb8e solid;
+    border-radius: 6px;
+}
+
+.btn-close:hover{
+    border: 1px #8feb8e solid;
+}
+
+.btn-close:active{
+    transform: scale(0.92);
+    border: 1.5px #99f198 solid;
+}
+.hidden {
+    display: none;
+}
